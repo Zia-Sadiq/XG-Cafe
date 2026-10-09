@@ -21,7 +21,7 @@ const BLOCKS = [
     ],
   },
   {
-    icon: Library,
+    icon: Eye,
     label: 'Our Vision',
     text: 'To become Baku’s cultural living room — where literature, conversation and specialty coffee shape the city’s next chapter.',
     pillars: [
